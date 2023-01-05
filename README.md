@@ -2,7 +2,7 @@
 
 Tools used: Python 3.8.0, BeautifulSoup, Microsoft Excel 2016, https://www.cv-library.co.uk/ (Jobs Posted in December 2022)
 
-This project exhibits webscraping using BeautifulSoup and Python programming language, data cleaning and dashboard creation in Excel
+This project exhibits web scraping using BeautifulSoup and Python programming language, data cleaning and dashboard creation in Excel
 
 Contained in the excel file are the following:
 1. "Raw Data" sheet - Raw Dataset
